@@ -31,7 +31,7 @@ Negative results are kept and published on purpose.
 
 ## What is in this repository
 
-Public documents only. The Core brain, the source code, run evidence and datasets are not here.
+Public documents and three source excerpts from the Core ([core/](core/)). The Core brain, the rest of the source, run evidence and datasets are not here.
 
 - [Vision: Aether as the Cognitive Loom](docs/Vision%20-%20Aether%20Cognitive%20Loom.md)
 - [Aether Vision: AGI and RSI](docs/Aether%20Vision%20-%20AGI%20and%20RSI.md)
